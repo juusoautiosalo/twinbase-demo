@@ -19,7 +19,15 @@
     },
     "relations": [
         {
-            "dt-id": "http://d-t.fi/konecranes-K16052",
+            "dt-id": "https://dtid.org/81ca4ef8-0125-4b27-8f44-3a1587e8bd57",
+            "relationType": "parent"
+        },
+        {
+            "dt-id": "http://dtid.org/6a303315-d9e5-48ef-a1da-d37bcaa10c57",
+            "relationType": "child"
+        },
+        {
+            "dt-id": "https://dtid.org/19096ff3-8c0e-4d16-82d4-d0220f33709b",
             "relationType": "child"
         }
     ],
