@@ -1,4 +1,6 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
+dt-id: https://dtid.org/497ff305-3444-487a-a8a9-5b8ff21071b4
+hosting-iri: https://juusoautiosalo.github.io/twinbase-for-seminar-demo/497ff305-3444-487a-a8a9-5b8ff21071b4
 name: Puumiehenkuja
 description: A street located in Otaniemi, Espoo, Finland.
+baseurl: https://juusoautiosalo.github.io/twinbase-for-seminar-demo
+edit: https://github.com/juusoautiosalo/twinbase-for-seminar-demo/edit/main/docs/497ff305-3444-487a-a8a9-5b8ff21071b4/index.yaml
