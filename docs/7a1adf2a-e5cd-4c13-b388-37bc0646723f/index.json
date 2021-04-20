@@ -1,8 +1,0 @@
-{
-    "dt-id": "https://dtid.org/7a1adf2a-e5cd-4c13-b388-37bc0646723f",
-    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-seminar-demo/7a1adf2a-e5cd-4c13-b388-37bc0646723f",
-    "name": "Test twin 1",
-    "description": "Testing twin used in the development of twinbase.",
-    "baseurl": "https://juusoautiosalo.github.io/twinbase-for-seminar-demo",
-    "edit": "https://github.com/juusoautiosalo/twinbase-for-seminar-demo/edit/main/docs/7a1adf2a-e5cd-4c13-b388-37bc0646723f/index.yaml"
-}
