@@ -1,0 +1,8 @@
+{
+    "dt-id": "https://dtid.org/1bbfab79-2890-4bcf-97fa-9dffb99c1759",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-seminar-demo/1bbfab79-2890-4bcf-97fa-9dffb99c1759",
+    "name": "Twin for research seminar",
+    "description": "This twin can be modified on the research seminar.",
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-for-seminar-demo",
+    "edit": "https://github.com/juusoautiosalo/twinbase-for-seminar-demo/edit/main/docs/1bbfab79-2890-4bcf-97fa-9dffb99c1759/index.yaml"
+}
