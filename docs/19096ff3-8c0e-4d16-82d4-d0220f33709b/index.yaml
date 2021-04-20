@@ -4,3 +4,8 @@ name: Drill
 description: Some random drill located in the AIIC lab at K3
 baseurl: https://juusoautiosalo.github.io/twinbase-for-seminar-demo
 edit: https://github.com/juusoautiosalo/twinbase-for-seminar-demo/edit/main/docs/19096ff3-8c0e-4d16-82d4-d0220f33709b/index.yaml
+relations:
+- dt-id: http://dtid.org/3091b292-6104-4ef3-a30f-8275b46b5ab4
+  relationType: parent
+- dt-id: https://dtid.org/81ca4ef8-0125-4b27-8f44-3a1587e8bd57
+  relationType: parent
