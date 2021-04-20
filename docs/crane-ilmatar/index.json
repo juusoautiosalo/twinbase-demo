@@ -2,7 +2,7 @@
     "version": "1.0",
     "privacy": "public",
     "dt-id": "http://d-t.fi/konecranes-K16052",
-    "hosting-iri": "https://twinbase.github.io/twinbase/crane-ilmatar",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-seminar-demo/crane-ilmatar",
     "name": "Ilmatar crane",
     "description": "Ilmatar is an overhead crane located at Aalto University.",
     "owner": {
@@ -67,6 +67,6 @@
             "address": "https://aalto.fi/ilmatar"
         }
     ],
-    "edit": "https://github.com/twinbase/twinbase/edit/main/docs/crane-ilmatar/index.yaml",
-    "baseurl": "https://twinbase.github.io/twinbase"
+    "edit": "https://github.com/juusoautiosalo/twinbase-for-seminar-demo/edit/main/docs/crane-ilmatar/index.yaml",
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-for-seminar-demo"
 }

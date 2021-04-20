@@ -2,7 +2,7 @@
     "version": "1.0",
     "privacy": "public",
     "dt-id": "http://d-t.fi/juuso",
-    "hosting-iri": "https://twinbase.github.io/twinbase/juuso",
+    "hosting-iri": "https://juusoautiosalo.github.io/twinbase-for-seminar-demo/juuso",
     "name": "Juuso Autiosalo",
     "description": "Juuso is working as a doctoral candidate at Aalto University.",
     "contact": {
@@ -32,6 +32,6 @@
             "address": "https://github.com/juusoautiosalo"
         }
     ],
-    "edit": "https://github.com/twinbase/twinbase/edit/main/docs/juuso/index.yaml",
-    "baseurl": "https://twinbase.github.io/twinbase"
+    "edit": "https://github.com/juusoautiosalo/twinbase-for-seminar-demo/edit/main/docs/juuso/index.yaml",
+    "baseurl": "https://juusoautiosalo.github.io/twinbase-for-seminar-demo"
 }
