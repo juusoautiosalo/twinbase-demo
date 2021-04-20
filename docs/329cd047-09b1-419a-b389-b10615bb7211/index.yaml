@@ -4,3 +4,6 @@ name: Bridge of Ilmatar
 description: A component of Ilmatar the crane
 baseurl: https://juusoautiosalo.github.io/twinbase-for-seminar-demo
 edit: https://github.com/juusoautiosalo/twinbase-for-seminar-demo/edit/main/docs/329cd047-09b1-419a-b389-b10615bb7211/index.yaml
+relations:
+- dt-id: http://dtid.org/6a303315-d9e5-48ef-a1da-d37bcaa10c57
+  relationType: parent
