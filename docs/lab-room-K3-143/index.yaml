@@ -1,7 +1,7 @@
 version: '1.0'
 privacy: public
 dt-id: http://dtid.org/3091b292-6104-4ef3-a30f-8275b46b5ab4
-hosting-iri: https://juusoautiosalo.github.io/twinbase-for-seminar-demo/lab-room-K3-143
+hosting-iri: https://juusoautiosalo.github.io/twinbase-demo/lab-room-K3-143
 name: AIIC mechatronics hall
 description: A laboratory room located at Aalto University.
 owner:
@@ -20,5 +20,5 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/19096ff3-8c0e-4d16-82d4-d0220f33709b
   relationType: child
-edit: https://github.com/juusoautiosalo/twinbase-for-seminar-demo/edit/main/docs/lab-room-K3-143/index.yaml
-baseurl: https://juusoautiosalo.github.io/twinbase-for-seminar-demo
+edit: https://github.com/juusoautiosalo/twinbase-demo/edit/main/docs/lab-room-K3-143/index.yaml
+baseurl: https://juusoautiosalo.github.io/twinbase-demo

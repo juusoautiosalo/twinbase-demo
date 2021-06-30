@@ -1,7 +1,7 @@
 version: '1.0'
 privacy: public
 dt-id: http://dtid.org/488cccff-6902-41a9-9130-24ba2e62fbd8
-hosting-iri: https://juusoautiosalo.github.io/twinbase-for-seminar-demo/juuso
+hosting-iri: https://juusoautiosalo.github.io/twinbase-demo/juuso
 name: Juuso Autiosalo
 description: Juuso is working as a doctoral candidate at Aalto University.
 contact:
@@ -20,5 +20,5 @@ features:
 - name: GiHub profile
   description: Juuso's GitHub profile
   address: https://github.com/juusoautiosalo
-edit: https://github.com/juusoautiosalo/twinbase-for-seminar-demo/edit/main/docs/juuso/index.yaml
-baseurl: https://juusoautiosalo.github.io/twinbase-for-seminar-demo
+edit: https://github.com/juusoautiosalo/twinbase-demo/edit/main/docs/juuso/index.yaml
+baseurl: https://juusoautiosalo.github.io/twinbase-demo

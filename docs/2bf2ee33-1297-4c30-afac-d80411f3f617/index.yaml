@@ -1,10 +1,10 @@
 dt-id: https://dtid.org/2bf2ee33-1297-4c30-afac-d80411f3f617
-hosting-iri: https://juusoautiosalo.github.io/twinbase-for-seminar-demo/2bf2ee33-1297-4c30-afac-d80411f3f617
+hosting-iri: https://juusoautiosalo.github.io/twinbase-demo/2bf2ee33-1297-4c30-afac-d80411f3f617
 name: Sensor
 description: Some sensor attached to Ilmatar the ovehead crane. Measures temperature
   and humidity.
-baseurl: https://juusoautiosalo.github.io/twinbase-for-seminar-demo
-edit: https://github.com/juusoautiosalo/twinbase-for-seminar-demo/edit/main/docs/2bf2ee33-1297-4c30-afac-d80411f3f617/index.yaml
+baseurl: https://juusoautiosalo.github.io/twinbase-demo
+edit: https://github.com/juusoautiosalo/twinbase-demo/edit/main/docs/2bf2ee33-1297-4c30-afac-d80411f3f617/index.yaml
 relations:
 - dt-id: http://dtid.org/6a303315-d9e5-48ef-a1da-d37bcaa10c57
   relationType: parent
