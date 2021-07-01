@@ -1,8 +1,8 @@
 dt-id: https://dtid.org/1bbfab79-2890-4bcf-97fa-9dffb99c1759
-hosting-iri: https://juusoautiosalo.github.io/twinbase-demo/1bbfab79-2890-4bcf-97fa-9dffb99c1759
+hosting-iri: https://demo.twinbase.org/1bbfab79-2890-4bcf-97fa-9dffb99c1759
 name: Twin for research seminar
 description: This twin can be modified on the research seminar.
-baseurl: https://juusoautiosalo.github.io/twinbase-demo
+baseurl: https://demo.twinbase.org
 edit: https://github.com/juusoautiosalo/twinbase-demo/edit/main/docs/1bbfab79-2890-4bcf-97fa-9dffb99c1759/index.yaml
 relations:
   parent: https://d-t.fi/juuso
