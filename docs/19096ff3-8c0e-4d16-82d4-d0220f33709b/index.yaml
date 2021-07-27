@@ -1,8 +1,8 @@
 dt-id: https://dtid.org/19096ff3-8c0e-4d16-82d4-d0220f33709b
-hosting-iri: https://demo.twinbase.org/19096ff3-8c0e-4d16-82d4-d0220f33709b
+hosting-iri: https://dtw.twinbase.org/19096ff3-8c0e-4d16-82d4-d0220f33709b
 name: Drill
 description: Some random drill located in the AIIC lab at K3
-baseurl: https://demo.twinbase.org
+baseurl: https://dtw.twinbase.org
 edit: https://github.com/juusoautiosalo/twinbase-demo/edit/main/docs/19096ff3-8c0e-4d16-82d4-d0220f33709b/index.yaml
 relations:
 - dt-id: http://dtid.org/3091b292-6104-4ef3-a30f-8275b46b5ab4

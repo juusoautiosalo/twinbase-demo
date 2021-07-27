@@ -1,8 +1,8 @@
 dt-id: https://dtid.org/81ca4ef8-0125-4b27-8f44-3a1587e8bd57
-hosting-iri: https://demo.twinbase.org/81ca4ef8-0125-4b27-8f44-3a1587e8bd57
+hosting-iri: https://dtw.twinbase.org/81ca4ef8-0125-4b27-8f44-3a1587e8bd57
 name: K3 building
 description: The Aalto University building "K3" used by Mechanical Engineering.
-baseurl: https://demo.twinbase.org
+baseurl: https://dtw.twinbase.org
 edit: https://github.com/juusoautiosalo/twinbase-demo/edit/main/docs/81ca4ef8-0125-4b27-8f44-3a1587e8bd57/index.yaml
 relations:
 - dt-id: https://dtid.org/497ff305-3444-487a-a8a9-5b8ff21071b4
