@@ -2,7 +2,7 @@
     "version": "1.0",
     "privacy": "public",
     "dt-id": "http://dtid.org/3091b292-6104-4ef3-a30f-8275b46b5ab4",
-    "hosting-iri": "https://demo.twinbase.org/lab-room-K3-143",
+    "hosting-iri": "https://dtw.twinbase.org/lab-room-K3-143",
     "name": "AIIC mechatronics hall",
     "description": "A laboratory room located at Aalto University.",
     "owner": {
@@ -32,5 +32,5 @@
         }
     ],
     "edit": "https://github.com/juusoautiosalo/twinbase-demo/edit/main/docs/lab-room-K3-143/index.yaml",
-    "baseurl": "https://demo.twinbase.org"
+    "baseurl": "https://dtw.twinbase.org"
 }
