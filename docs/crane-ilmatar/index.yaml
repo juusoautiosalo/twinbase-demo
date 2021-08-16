@@ -18,6 +18,7 @@ manufacturer:
   website: https://www.konecranes.com
 relations:
 - dt-id: http://dtid.org/3091b292-6104-4ef3-a30f-8275b46b5ab4
+  name: AIIC laboratory hall
   relationType: parent
 - dt-id: https://dtid.org/329cd047-09b1-419a-b389-b10615bb7211
   relationType: child
