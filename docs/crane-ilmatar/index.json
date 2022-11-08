@@ -24,6 +24,7 @@
     "relations": [
         {
             "dt-id": "http://dtid.org/3091b292-6104-4ef3-a30f-8275b46b5ab4",
+            "name": "AIIC laboratory hall",
             "relationType": "parent"
         },
         {
